@@ -1,0 +1,17 @@
+header {
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  padding-right: 10px;
+}
